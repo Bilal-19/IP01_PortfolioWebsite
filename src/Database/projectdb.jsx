@@ -5,7 +5,7 @@ export let previuosProjects = [
         id: 1,
         projectName: "Space Exploration Site",
         displayImage: "src/Database/Images/space_exploration_site.PNG",
-        description: "A simple space exploration site where animated image is used, which looks like the clone of space.",
+        description: "Welcome to our space exploration landing page! Explore outer space with mesmerizing animated images on our user-friendly landing page. Journey through stars and galaxies like never before!",
         websiteURL: "https://explorespacesite.netlify.app/",
         githubURL: "https://github.com/Bilal-19/space_exploration_site"
 
@@ -15,7 +15,7 @@ export let previuosProjects = [
         id: 2,
         projectName: "Birthday Site",
         displayImage: "src/Database/Images/birthday_site.PNG",
-        description: "A birthday site where gifs will display by hovering on the gift wrapper.",
+        description: "Welcome to our birthday site! Hover over gift wrappers to reveal delightful gifs, adding joy to your celebration. It's a fun and interactive experience, making your special day even more memorable. Join the festivities now.",
         websiteURL: "https://explorespacesite.netlify.app/",
         githubURL: "https://github.com/Bilal-19/space_exploration_site"
 
@@ -25,7 +25,7 @@ export let previuosProjects = [
         id: 3,
         projectName: "React Info Site",
         displayImage: "src/Database/Images/react_info_site.PNG",
-        description: "A react info website where user can read amazing facts about React and can change the theme of the website using toggle button.",
+        description: "Welcome to aur React Info Site! Discover amazing facts about React on our user-friendly website. Toggle the theme with a simple button to suit your style. Explore React like never before.",
         websiteURL: "https://togglereacttheme.netlify.app/",
         githubURL: "https://github.com/Bilal-19/react_toggle_theme"
 
@@ -35,7 +35,7 @@ export let previuosProjects = [
         id: 4,
         projectName: "Airbnb Clone",
         displayImage: "src/Database/Images/airbnb_clone.PNG",
-        description: "An airbnb clone where user can view different short and long term experience.",
+        description: "Welcome to our amazing Airbnb clone! On this user-friendly landing page, you can explore a wide variety of short and long-term experiences, all brought to life with the power of HTML, CSS, and React JS.",
         websiteURL: "https://clonearibnb.netlify.app/",
         githubURL: "https://github.com/Bilal-19/airbnb_clone"
 
@@ -45,7 +45,7 @@ export let previuosProjects = [
         id: 5,
         projectName: "Memes Generator",
         displayImage: "src/Database/Images/memes.PNG",
-        description: "A meme generator web application where user can get random meme image for the purpose of fun.",
+        description: "Welcome to our fantastic meme generator web app! Click to access a vast collection of random meme images for endless fun. Join the ultimate meme-generating adventure on our user-friendly website.",
         websiteURL: "https://imagememe.netlify.app/",
         githubURL: "https://github.com/Bilal-19/meme_generator_app_using_reactjs"
 
@@ -55,7 +55,7 @@ export let previuosProjects = [
         id: 6,
         projectName: "Travel Journal",
         displayImage: "src/Database/Images/travel_journal.PNG",
-        description: "A travel journal which show the description, journey date and location of the place.",
+        description: "Explore our Travel Journal landing page, powered by React JS and Bootstrap 5. Record and share your travel experiences, including descriptions, journey dates, and locations with ease!",
         websiteURL: "https://globaltravel.netlify.app/",
         githubURL: "https://github.com/Bilal-19/travel_journal"
 
@@ -65,7 +65,7 @@ export let previuosProjects = [
         id: 7,
         projectName: "Five Star Showroom",
         displayImage: "src/Database/Images/showroom.PNG",
-        description: "A showroom website build using Bootstrap and React JS where people can visit to check the availability of the new cars, used cars and spare parts.",
+        description: "Welcome to our user-friendly showroom website, thoughtfully crafted with Bootstrap! Discover the latest arrivals of new cars, collection of quality used cars, and a wide range of spare parts to meet your needs.",
         websiteURL: "https://fivestarcardealer.netlify.app/",
         githubURL: "https://github.com/Bilal-19/showroom_web"
 
@@ -73,99 +73,59 @@ export let previuosProjects = [
 
     {
         id: 8,
-        projectName: "ChapApp using Socket",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        projectName: "Landing Page",
+        displayImage: "src/Database/Images/LandingPage.PNG",
+        description: "Crafting an engaging landing page taught me the art of capturing attention and conveying information effectively.",
+        websiteURL: "https://airlinelandingpage.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/CodSoftInternshipTask-LandingPage"
 
     },
 
     {
         id: 9,
-        projectName: "Webcam App",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        projectName: "Calculator App",
+        displayImage: "src/Database/Images/Calculator.PNG",
+        description: "Developing a functional calculator app was an exciting challenge that honed my problem-solving abilities and logical thinking.",
+        websiteURL: "https://simplecalculationapp.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/CodSoftInternshipTask-Calculator"
 
     },
     {
         id: 10,
         projectName: "Ecommerce Website",
-        displayImage: "...",
+        displayImage: "src/Database/Images/ecommerce.PNG",
         description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        websiteURL: "https://techmartecommerce.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/IP04_EcommerceWebsite"
 
     },
 
     {
         id: 11,
         projectName: "Event Registration App",
-        displayImage: "...",
+        displayImage: "src/Database/Images/eventRegister.PNG",
         description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        websiteURL: "https://eventregisterationapp.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/IP05_EventResgistrationApp"
 
     },
     {
         id: 12,
         projectName: "Word Counter App",
-        displayImage: "...",
+        displayImage: "src/Database/Images/counterApp.PNG",
         description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        websiteURL: "https://wordcounterapplication.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/IP06_WordCounterApp"
 
     },
 
     {
         id: 13,
         projectName: "Quiz Game",
-        displayImage: "...",
+        displayImage: "src/Database/Images/QuizGame.PNG",
         description: "...",
-        websiteURL: "...",
-        githubURL: "..."
-
-    },
-
-    {
-        id: 14,
-        projectName: "Social Media Dashboard",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
-
-    },
-
-    {
-        id: 15,
-        projectName: "Marketing Website",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
-
-    },
-
-    {
-        id: 16,
-        projectName: "Conference Schedule",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
-
-    },
-
-    {
-        id: 17,
-        projectName: "Digital Business Card",
-        displayImage: "...",
-        description: "...",
-        websiteURL: "...",
-        githubURL: "..."
+        websiteURL: "https://reactquizgameapp.netlify.app/",
+        githubURL: "https://github.com/Bilal-19/IP07_QuizGame"
 
     },
 

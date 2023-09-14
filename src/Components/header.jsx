@@ -16,10 +16,10 @@ export default function HeaderNavigation() {
                             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul className="navbar-nav mx-5 mb-2 mb-lg-0">
                                     <li className="nav-item"><Link to="/" className="nav-link">HOME</Link></li>
-                                    <li className="nav-item"><Link to="/about" className="nav-link">ABOUT</Link></li>
-                                    <li className="nav-item"><Link to="/project" className="nav-link">PROJECT</Link></li>
+                                    <li className="nav-item"><Link to="/project" className="nav-link">PROJECTS</Link></li>
                                     <li className="nav-item"><Link to="/certifications" className="nav-link">CERTIFICATIONS</Link></li>
-                                    <li className="nav-item"><Link to="/contact" className="nav-link">CONTACT</Link></li>
+                                    <li className="nav-item"><Link to="/education" className="nav-link">EDUCATION</Link></li>
+                                    <li className="nav-item"><Link to="/experience" className="nav-link">EXPERIENCE</Link></li>
                                 </ul>
                             </div>
                         </div>
