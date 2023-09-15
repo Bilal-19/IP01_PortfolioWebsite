@@ -95,7 +95,7 @@ export let previuosProjects = [
         projectName: "Ecommerce Website",
         displayImage: "src/Database/Images/ecommerce.PNG",
         description: "A user-friendly ecommerce platform, enabling customers to easily explore product categories, including smartphones, tablets, laptops, and mobile and laptop accessories.",
-        websiteURL: "https://techmartecommerce.netlify.app/",
+        websiteURL: "https://onlinetechmart.netlify.app/",
         githubURL: "https://github.com/Bilal-19/IP04_EcommerceWebsite"
 
     },
