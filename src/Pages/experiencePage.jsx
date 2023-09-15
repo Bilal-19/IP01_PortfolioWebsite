@@ -21,8 +21,8 @@ export default function ExperiencePage() {
                         ExperienceData.map((item, i) => {
                             return (
                                 <>
-                                    <div className="card m-2" style={{ width: '19rem' }}>
-                                        <p className="card-text mb-1 fw-bold h5 text-uppercase text-center">{item.companyName}</p>
+                                    <div className="card m-3" style={{ width: '19rem' }}>
+                                        <p className="card-text mb-1 fw-bold h5 text-uppercase text-center pt-1">{item.companyName}</p>
                                         <p className="card-text mb-0"><b>Role: </b>{item.role}</p>
                                         <p className="card-text mb-0"><b>Achievment: </b>
                                             <br />

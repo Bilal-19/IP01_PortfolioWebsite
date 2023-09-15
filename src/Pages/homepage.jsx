@@ -8,7 +8,7 @@ export default function Homepage() {
             <div className="container-fluid mt-2">
                 <div className="row">
                     <div className="col-md-12">
-                        <div className="card mx-auto border-primary" style={{ width: '22rem' }}>
+                        <div className="card mx-auto border-primary" style={{ width: '20rem' }}>
                             <img className="card-img-top mt-2 mx-auto" src={'https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80'} style={{ borderRadius: "50%", height: "200px", width: '200px' }} />
                             <div className="card-title">
                                 <p className="card-text text-center fw-bold text-uppercase h5">Bilal Muhammad Yousuf</p>
