@@ -14,9 +14,14 @@ export default function ProjectPage() {
     return (
         <>
             <HeaderNavigation />
-            <p className="text-center fw-bold h3">FEATURE PROJECTS</p>
+
 
             <div className="container-fluid">
+
+                <div className="row">
+                    <i className="text-center h4">FEATURE PROJECTS</i>
+                </div>
+
                 <div className="row">
                     {
                         previuosProjects.map((item) => {

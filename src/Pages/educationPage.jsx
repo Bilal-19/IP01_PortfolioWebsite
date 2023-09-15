@@ -9,7 +9,7 @@ export default function EducationPage() {
 
             <div className="container-fluid">
                 <div className="row">
-                    <p className='text-center text-uppercase h4'>Education</p>
+                    <i className="text-center h4">EDUCATION</i>
                 </div>
 
                 <div className="row">
