@@ -9,7 +9,7 @@ export default function ProjectCard(props) {
         <>
 
             <div className="card border-dark m-2" style={{ width: "22rem" }}>
-                <img src={props.displayImage} className="card-img-top img-fluid mt-1" alt="..." style={{ width: "25rem", height: "13rem", border: "1px solid black" }} />
+                {/* <img src={props.displayImage} className="card-img-top img-fluid mt-1" alt="..." style={{ width: "25rem", height: "13rem", border: "1px solid black" }} /> */}
                 <div className="card-body">
                     <h5 className="card-title text-center mb-0">{props.projectName}</h5>
                     <p className="card-text mt-0">{props.description}</p>
