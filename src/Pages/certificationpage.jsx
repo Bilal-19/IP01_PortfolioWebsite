@@ -1,6 +1,7 @@
 import React from "react";
 import HeaderNavigation from "../Components/header";
-import Certificate from "../Components/certificate";
+import { certificateData } from "../Database/achievmentData";
+import { Link } from 'react-router-dom'
 
 export default function AchievmentPage() {
     return (
@@ -8,9 +9,27 @@ export default function AchievmentPage() {
             <HeaderNavigation />
 
             <div className="container-fluid">
-                <div className="row">
 
-                    <Certificate />
+                <div className="row">
+                    <p className="fw-bold text-center h5 fw-italic">CERTIFICATIONS</p>
+                </div>
+                <div className="row">
+                    {
+                        certificateData.map((item) => {
+                            return (
+                                <>
+                                    <div className="card-body" style={{ width: '26rem' }} key={item.id}>
+                                        <p className="card-title mx-2 text-uppercase fw-bold text-center h5">{item.certificateName}</p>
+                                        <p className="card-text mx-2 mb-0"><b>Learning Outcome: </b> <br />{item.learningOutcome}</p>
+                                        <p className="card-text mx-2 mt-0 mb-1">📅 {item.completionDate}</p>
+                                        <Link to={item.credentialsURL} className="btn btn-success mx-2 mt-0 mb-4" target="_blank"><i className="bi bi-globe bg-black"></i>Show Credentials</Link>
+                                    </div>
+                                </>
+                            )
+                        })
+                    }
+
+
                 </div>
             </div>
 

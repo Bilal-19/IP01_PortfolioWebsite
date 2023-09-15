@@ -2,10 +2,10 @@ import React from 'react'
 import './App.css'
 import Homepage from './Pages/homepage'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import AboutPage from './Pages/aboutpage'
 import ProjectPage from './Pages/projectpage'
 import AchievmentPage from './Pages/certificationpage'
-import ContactPage from './Pages/contactpage'
+import ExperiencePage from './Pages/experiencePage'
+import EducationPage from './Pages/educationPage'
 
 function App() {
 
@@ -14,10 +14,10 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Homepage />}></Route>
-          <Route path='/about' element={<AboutPage />}></Route>
+          <Route path='/education' element={<EducationPage />}></Route>
           <Route path='/project' element={<ProjectPage />}></Route>
           <Route path='/certifications' element={<AchievmentPage />}></Route>
-          <Route path='/contact' element={<ContactPage />}></Route>
+          <Route path='/experience' element={<ExperiencePage />}></Route>
         </Routes>
       </BrowserRouter>
     </>
