@@ -94,7 +94,7 @@ export let previuosProjects = [
         id: 10,
         projectName: "Ecommerce Website",
         displayImage: "src/Database/Images/ecommerce.PNG",
-        description: "...",
+        description: "A user-friendly ecommerce platform, enabling customers to easily explore product categories, including smartphones, tablets, laptops, and mobile and laptop accessories.",
         websiteURL: "https://techmartecommerce.netlify.app/",
         githubURL: "https://github.com/Bilal-19/IP04_EcommerceWebsite"
 
@@ -104,7 +104,7 @@ export let previuosProjects = [
         id: 11,
         projectName: "Event Registration App",
         displayImage: "src/Database/Images/eventRegister.PNG",
-        description: "...",
+        description: "An intuitive event registration website where users can effortlessly access event details, such as event categories, dates, and locations, and even register for new events hassle-free.",
         websiteURL: "https://eventregisterationapp.netlify.app/",
         githubURL: "https://github.com/Bilal-19/IP05_EventResgistrationApp"
 
@@ -113,7 +113,7 @@ export let previuosProjects = [
         id: 12,
         projectName: "Word Counter App",
         displayImage: "src/Database/Images/counterApp.PNG",
-        description: "...",
+        description: "A powerful wordcounter application that allows users to preview text, convert it to uppercase or lowercase letters, and conveniently copy the text to their clipboard.",
         websiteURL: "https://wordcounterapplication.netlify.app/",
         githubURL: "https://github.com/Bilal-19/IP06_WordCounterApp"
 
@@ -123,7 +123,7 @@ export let previuosProjects = [
         id: 13,
         projectName: "Quiz Game",
         displayImage: "src/Database/Images/QuizGame.PNG",
-        description: "...",
+        description: "An engaging quiz game website where users can participate in quizzes and receive instant results upon completing all the quiz questions.",
         websiteURL: "https://reactquizgameapp.netlify.app/",
         githubURL: "https://github.com/Bilal-19/IP07_QuizGame"
 

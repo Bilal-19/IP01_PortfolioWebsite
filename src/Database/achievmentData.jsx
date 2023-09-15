@@ -1,7 +1,7 @@
 export let certificateData = [
     {
         id: 1,
-        certificateName: "Gt Essential Training",
+        certificateName: "Git Essential Training",
         learningOutcome: "Why to use Git? How Git Work?, Pushing code to git.",
         credentialsURL: "https://www.linkedin.com/learning/certificates/e9a4f1577d1065c6b66fbc7cebb06b9b9520d81ec36e6ab11c630368e45e5df2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6C3sr7U%2FRIGX%2BgXBX3BuYQ%3D%3D",
         completionDate: "Aug 31, 2023"
